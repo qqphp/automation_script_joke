@@ -19,5 +19,5 @@
 
 请讲一个简短有趣的笑话，直接给出笑话内容，不要有多余的话。
 
-***效果演示：**
-![Alt Text](https://github.com/qqphp/automation_script_joke/demo.gif)
+**效果演示：**
+![Alt Text](https://github.com/qqphp/automation_script_joke/blob/main/demo.gif)
