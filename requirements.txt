@@ -1,0 +1,9 @@
+pywin32==306
+pyserial==3.5
+psutil==5.9.5
+keyboard==0.13.5
+requests==2.31.0
+pyautogui==0.9.54
+pygetwindow==0.0.9
+python-dotenv==1.0.0
+pyperclip==1.8.2
